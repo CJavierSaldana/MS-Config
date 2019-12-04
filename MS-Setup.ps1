@@ -11,5 +11,4 @@ choco install azure-data-studio -y
 choco install visualstudio2019professional -y
 
 #environment
-choco install docker-desktop -y
 choco install gittfs -y
