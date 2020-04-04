@@ -10,7 +10,7 @@ choco install fiddler -y
 choco install vscode -y 
 choco install sql-server-management-studio -y 
 choco install azure-data-studio -y
-choco install visualstudio2015enterprise -y
+choco install visualstudio2019enterprise -y
 
 #environment
 choco install gittfs -y
