@@ -9,6 +9,3 @@ choco install microsoft-windows-terminal -y
 choco install vscode -y 
 choco install azure-data-studio -y
 choco install visualstudio2019enterprise -y
-
-#environment
-choco install gittfs -y
