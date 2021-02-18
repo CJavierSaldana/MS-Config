@@ -3,7 +3,6 @@ choco install 7zip.install -y
 choco install sharex -y 
 choco install fiddler -y
 choco install postman -y
-choco install microsoft-windows-terminal -y
 
 #code editor
 choco install vscode -y 
